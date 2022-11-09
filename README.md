@@ -1,2 +1,2 @@
 # KucuktenBuyuge
-Sayıları küçükten büyüğe sıralayan program (www.patika.dev)
+Girilen 3 farklı sayıyı küçükten büyüğe sıralayan program
